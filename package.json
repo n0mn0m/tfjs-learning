@@ -1,0 +1,15 @@
+{
+  "name": "tfjs-learning",
+  "version": "1.0.0",
+  "description": "sandbox for learning tfjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander \"n0mn0m\" Hagerman",
+  "type": "module",
+  "license": "0BSD",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.13.0"
+  }
+}
